@@ -1,0 +1,36 @@
+h1{
+	color: white;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #f4511e;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.jumbotron{
+	background-color: #f4511e;
+	color: #ffffff;
+	height: 420px;
+	padding: 100px 25px;
+	
+}
+span{
+	height: 80px;
+	width: 80px;
+}
+.logo {
+    font-size: 180px;
+}
+.col-sm-4 {
+        text-align: center;
+        margin: 70px 0;
+    }
+.col-sm-8{
+	padding-left: 80px;
+	padding-top: 80px;
+}
